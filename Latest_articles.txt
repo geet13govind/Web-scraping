@@ -1,8 +1,8 @@
 
-Latest articles in python section are : 
+Latest articles in python section are: 
 
-1 : Announcing Python Software Foundation Fellow Members for Q3 2023! 🎉
-2 : Announcing the Deputy Developer in Residence and the Supporting Developer in Residence
-3 : Python 3.13.0 alpha 3 is now available.
-4 : EU’s Cyber Resilience Act Passes with Wins for Open Source
-5 : Python Software Foundation - December 2023 Newsletter
+1. Announcing Python Software Foundation Fellow Members for Q3 2023! 🎉
+2. Announcing the Deputy Developer in Residence and the Supporting Developer in Residence
+3. Python 3.13.0 alpha 3 is now available.
+4. EU’s Cyber Resilience Act Passes with Wins for Open Source
+5. Python Software Foundation - December 2023 Newsletter

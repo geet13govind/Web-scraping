@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-def latest_python_articles():
-    url = "https://www.python.org/"
+def latest_python_articles(url):
     response = requests.get(url)
 
     if response.status_code == 200:
@@ -19,11 +18,11 @@ def latest_python_articles():
         return []
     
 if __name__ == "__main__":
-    python_articles = latest_python_articles()
-    if python_articles:
-        print('Latest articles in python section : ')
+    python_articles = latest_python_articles("https://www.python.org/")
+    if python_articles is not None:
+        print('Latest articles in python section: ')
         for index,article in enumerate(python_articles,1):
-            print(f'{index}.{article}')
+            print(f'{index}. {article}')
                   
 
     else:
