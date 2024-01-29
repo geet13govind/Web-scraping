@@ -1,7 +1,7 @@
 # Nexthikes-Project-2
 # Web Scraping and word frequency counting
 
-Prerequisites
+#Prerequisites :
 
 Used BeautifulSoup, Requests, Selenium libraries to work on project
 
