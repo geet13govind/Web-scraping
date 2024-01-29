@@ -1,4 +1,3 @@
-
 Latest articles in python section are: 
 
 1. Announcing Python Software Foundation Fellow Members for Q3 2023! 🎉
