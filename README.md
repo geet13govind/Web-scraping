@@ -1,3 +1,5 @@
+# Web Scraping and word frequency counting
+
 Prerequisites
 
 Used BeautifulSoup, Requests, Selenium libraries to work on project
