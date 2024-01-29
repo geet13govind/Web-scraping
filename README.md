@@ -5,7 +5,7 @@
 
 Used BeautifulSoup, Requests, Selenium libraries to work on project
 
-# Project detail:
+# Project details:
 
 This project is to scrap an article from a website "https://www.python.org/" and find word frequency of every word from data that we scrap.
 
