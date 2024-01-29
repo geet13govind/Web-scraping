@@ -1,11 +1,11 @@
 # Nexthikes-Project-2
 # Web Scraping and word frequency counting
 
-#Prerequisites :
+# Prerequisites :
 
 Used BeautifulSoup, Requests, Selenium libraries to work on project
 
-Project detail:
+# Project detail:
 
 This project is to scrap an article from a website "https://www.python.org/" and find word frequency of every word from data that we scrap.
 
