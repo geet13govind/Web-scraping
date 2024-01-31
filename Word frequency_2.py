@@ -1,9 +1,9 @@
-def read_file(file_path):
+def read_file(path_of_file):
     try:
-        with open(file_path, 'r') as file:
+        with open(path_of_file, 'r') as file:
             return file.read()
     except FileNotFoundError:
-        print(f"File not found: {file_path}")
+        print(f"File not found: {path_of_file}")
         return None
 
 def count_word_frequency(text):
@@ -19,9 +19,9 @@ def count_word_frequency(text):
 
     return word_frequency
 
-file_path = input("Please enter the path of the file: ")
+path_of_file = input("Please enter the path of file: ")
 
-input_data = read_file(file_path)
+input_data = read_file(path_of_file)
 
 result = count_word_frequency(input_data)
 
