@@ -27,4 +27,4 @@ New_articles_by Selenium.txt is the data saved in text file by program (Scraping
 
 (Word frequency_1.py) and (Word frequency_2.py), both program are written to find word frequency in saved text file. 
 
-A PPT(Web scraping and count frequency of words) is also attached showing the details related to the project.
+A PPT(Web Scraping And Word Frequency analysis with python) is also attached showing the details related to the project.
